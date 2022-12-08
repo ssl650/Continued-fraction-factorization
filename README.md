@@ -1,2 +1,2 @@
-# Continued-fraction-factorization
+# Quadratic-sieve-factorization
 Still not finished :^(
